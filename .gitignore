@@ -1,0 +1,14 @@
+# Secrets : ne jamais les publier
+config.env
+*.env
+
+# Fichiers générés par Python
+__pycache__/
+*.pyc
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Brouillons personnels
+notes-brouillon.txt
